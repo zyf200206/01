@@ -56,7 +56,7 @@
                     <tr>
 						<td>自我介绍:</td>
 						<td>
-							<textarea name="comment" rows="5" cols=26"">自我介绍：</textarea>
+							<textarea name="comment" rows="5" cols=26"">：</textarea>
 						</td>
 					</tr>
                     <tr>
